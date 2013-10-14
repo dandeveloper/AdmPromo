@@ -1,0 +1,37 @@
+body {
+    margin: 10px;
+}
+.pagination {
+    text-align: center;
+}
+
+footer.rodape {    
+    border-top: 1px solid #b3b3b3;
+    width: 100%;
+}
+footer.rodape p {
+    float: right;
+    margin: 5px;
+}
+
+.modal-body {
+    padding: 15px 135px!important;   
+}
+
+thead {
+    font-weight: bolder;
+    background: #d9d9d9;
+}
+
+.total-reg span {
+    font-weight: bolder;
+}
+
+.novo-usuario {
+    padding: 10px;
+}
+
+.formulario {
+    width: 300px;
+    margin: 0 auto;
+}
